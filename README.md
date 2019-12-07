@@ -1,5 +1,4 @@
 # kids-zone
---
 The www.kids-Zone website is designed for the Kids for Learning ABC’s in more
 creative way. The website includes the ABC with A for …., B for…. It also
 includes some nursery rhymes with images so that child can grasp more easily.
